@@ -1,0 +1,526 @@
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+/* start header*/
+.header1 p
+{
+ color:gray;
+ border:black solid 2px;
+ width: 100px;
+ padding:5px;
+ text-align: center;
+ 
+}
+body
+{
+    height:700px;
+    overflow-x: hidden;
+}
+.header1 .divheader1
+{
+    position:relative;
+    right:90px;
+    
+}
+.header1 .divheader1 input
+{
+   border:1px solid white;
+   position: relative;
+   left:10px;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.div2header1 i
+{
+    margin-left: 20px;
+}
+.header1 .div2header1
+{
+ outline: none;
+ position: relative;
+ left:40%;  
+ color:gray;
+}
+.header1 .div2header1 i:hover
+{
+    color:blueviolet
+}
+.header1  
+{
+ position: relative;
+ right: 50px;
+}
+.header1 p
+{
+ color:gray;
+ border:black solid 2px;
+ width: 100px;
+ padding:5px;
+ position:relative;
+ right:500px;
+}
+.header1
+{
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+ margin-top: 50px;
+}
+.icons #first
+{
+    position: relative;
+    top: -121px;
+    right: 140px;
+    transform: scaleX(-1);
+}
+.icons #second
+{
+    position: relative;
+    top: -120px;
+    right: 158px;
+    transform: scaleX(-1);
+}
+.icons #third
+{
+    position: relative;
+    top: -123px;
+    right: 165px;   
+}
+.icons i
+{
+   font-size: 60px;
+}
+.section5 .div5section5 i
+{
+    color:blueviolet;
+}
+.div2header1 i:hover
+{
+    color:blueviolet;
+}
+.firstline
+{
+   margin-top: 40px;
+   background-color: rgb(158, 158, 158);
+   opacity: 0.15;
+}
+.divoflinks
+{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.divoflinks a
+{
+    text-decoration: none;
+    color:black;
+    margin:30px 0 0 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.divoflinks a:hover
+{
+    color:rgb(180, 48, 233);
+}
+.divoflinks2
+{
+    background: rgb(214, 210, 210);
+    padding:15px;
+    margin-top: 50px;
+}
+.divoflinks2 a
+{
+    color:black;
+    text-decoration: none;
+    margin-left: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.divoflinks2 a:hover
+{
+    color:rgb(180, 48, 233);
+}
+/* end header*/
+
+
+
+
+
+/* start card*/
+
+.section3
+{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width:75%;
+    height:700px;
+    position:relative;
+    left: 490px;
+    
+}
+
+.section3 .divsection3 , .section3 .div2section3 , .section3 .div3section3
+{
+    background: white;
+    width: 250px;
+    height:400px;
+    margin-top: 150px;
+    position: relative;
+    right:150px;
+}
+
+.section3 .divsection3 p , .section3 .div2section3 p ,.section3 .div3section3 p
+{
+    text-align: center;
+    margin-top: 12px;
+    font-family: sans-serif;
+    position: relative;
+    left:30px;
+}
+.section3 .divsection3 .para10 , .section3 .divsection3 .para12 ,.section3 .div2section3 .para10 , .section3 .div2section3 .para12 ,.section3 .div3section3 .para10 , .section3 .div3section3 .para12 
+{
+    color:rgb(83, 8, 153)
+}
+.section3 .divsection3 .para11 , .section3 .div2section3 .para11 ,.section3 .div3section3 .para11
+{
+    color:gray;
+}
+.section3 .divsection3 .para10 ,.section3 .div2section3 .para10 , .section3 .div3section3 .para10
+{
+    margin-top: 35px;
+}
+.section3 .div2section3 .shoes
+{
+    width:250px;
+    height:210px;
+    position:relative;
+    left:30px;
+}
+.section3 .div3section3 .cloth
+{
+    width:250px;
+    height:210px;
+    position:relative;
+    left:30px;
+}
+.section3 .divsection3 .cloth
+{
+    width:250px;
+    height:210px;
+    position:relative;
+    left:30px;
+    
+}
+.section3 .divsection3
+{
+    margin-right: 10px;
+}
+.section3 .div3section3
+{
+    margin-left: 10px;
+}
+.section3 .paras
+{
+    position: relative;
+    top:50px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+}
+.section4
+{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width:70%;
+    height:700px;
+    position:relative;
+    left: 490px;
+    bottom: 150px;
+}
+
+.section4 .divsection4 , .section4 .div2section4 , .section4 .div3section4
+{
+    background: white;
+    width: 250px;
+    height:400px;
+    position: relative;
+    bottom:430px;
+   right:20px;
+}
+
+.section4 .divsection4 p , .section4 .div2section4 p ,.section4 .div3section4 p
+{
+    text-align: center;
+    margin-top: 12px;
+    font-family: sans-serif;
+    position: relative;
+    left:30px;
+}
+.section4 .divsection4 .para10 , .section4 .divsection4 .para12 ,.section4 .div2section4 .para10 , .section4 .div2section4 .para12 ,.section4 .div3section4 .para10 , .section4 .div3section4 .para12 
+{
+    color:rgb(83, 8, 153)
+}
+.section4 .divsection4 .para11 , .section4 .div2section4 .para11 ,.section4 .div3section4 .para11
+{
+    color:gray;
+}
+.section4 .divsection4 .para10 ,.section4 .div2section4 .para10 , .section4 .div3section4 .para10
+{
+    margin-top: 35px;
+}
+.section4 .div2section4 .shoes
+{
+    width:220px;
+    height:210px;
+    position:relative;
+    left:30px;
+}
+.section4 .div3section4 .cloth
+{
+    width:220px;
+    height:210px;
+    position:relative;
+    left:30px;
+}
+.section4 .divsection4 .cloth
+{
+    width:230px;
+    height:210px;
+    position:relative;
+    left:30px;
+    
+}
+.section4 .divsection4
+{
+    margin-right: 10px;
+}
+.section4 .div3section4
+{
+    margin-left: 10px;
+}
+.section4 .paras
+{
+    position: relative;
+    top:50px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+/* end card*/
+
+/* start section left */
+.sectionleft
+{
+    border:1px solid rgb(175, 166, 166);
+    width:300px;
+    height:200px;
+    position: relative;
+    bottom:640px;
+    left:190px;
+    padding:15px;
+    border-radius: 5px;
+    line-height: 40px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.sectionleft .div2sectionleft
+{
+    position: absolute;
+    right:20px;
+    top: 50px;
+}
+.sectionleft .divsectionleft .men , .sectionleft .divsectionleft .women , .sectionleft .divsectionleft .children 
+{
+   color:blueviolet;
+}
+/* start section left2 */
+
+.sectionleft2
+{
+    border:1px solid rgb(175, 166, 166);
+    width:300px;
+    height:200px;
+    position: relative;
+    bottom:610px;
+    left:190px;
+    padding:15px;
+    border-radius: 5px;
+    line-height: 40px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.sectionleft2 .div2sectionleft2
+{
+    position: absolute;
+    right:20px;
+    top: 50px;
+}
+.sectionleft2 .divsectionleft2 .men , .sectionleft2 .divsectionleft2 .women , .sectionleft2 .divsectionleft2 .children 
+{
+   color:blueviolet;
+}
+/* end section left2 */
+.section5
+{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width:70%;
+    height:700px;
+    margin-top: 40px;
+    position:relative;
+    bottom:550px;
+    left: 490px;;
+}
+
+.section5 .divsection5 , .section5 .div2section5 , .section5 .div3section5
+{
+    background: white;
+    width: 250px;
+    height:400px;
+    position: relative;
+    bottom:400px;
+   right:20px;
+}
+
+.section5 .divsection5 p , .section5 .div2section5 p ,.section5 .div3section5 p
+{
+    text-align: center;
+    margin-top: 12px;
+    font-family: sans-serif;
+    position: relative;
+    left:30px;
+}
+.section5 .divsection5 .para10 , .section5 .divsection5 .para12 ,.section5 .div2section5 .para10 , .section5 .div2section5 .para12 ,.section5 .div3section5 .para10 , .section5 .div3section5 .para12 
+{
+    color:rgb(83, 8, 153)
+}
+.section5 .divsection5 .para11 , .section5 .div2section5 .para11 ,.section5 .div3section5 .para11
+{
+    color:gray;
+}
+.section5 .divsection5 .para10 ,.section5 .div2section5 .para10 , .section5 .div3section5 .para10
+{
+    margin-top: 35px;
+}
+.section5 .div2section5 .shoes
+{
+    width:220px;
+    height:210px;
+    position:relative;
+    left:30px;
+}
+.section5 .div3section5 .cloth
+{
+    width:220px;
+    height:210px;
+    position:relative;
+    left:30px;
+}
+.section5 .divsection5 .cloth
+{
+    width:230px;
+    height:210px;
+    position:relative;
+    left:30px;
+    
+}
+.section5 .divsection5
+{
+    margin-right: 10px;
+}
+.section5 .div3section5
+{
+    margin-left: 10px;
+}
+.section5 .paras
+{
+    position: relative;
+    top:50px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+}
+.section6
+{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width:70%;
+    height:700px;
+    margin-top: 40px;
+    position:relative;
+    bottom:920px;
+    left: 490px;;
+}
+
+.section6 .divsection6 , .section6 .div2section6 , .section6 .div3section6
+{
+    background: white;
+    width: 250px;
+    height:400px;
+    position: relative;
+    bottom:400px;
+   right:20px;
+}
+
+.section6 .divsection6 p , .section6 .div2section6 p ,.section6 .div3section6 p
+{
+    text-align: center;
+    margin-top: 12px;
+    font-family: sans-serif;
+    position: relative;
+    left:30px;
+}
+.section6 .divsection6 .para10 , .section6 .divsection6 .para12 ,.section6 .div2section6 .para10 , .section6 .div2section6 .para12 ,.section6 .div3section6 .para10 , .section6 .div3section6 .para12 
+{
+    color:rgb(83, 8, 153)
+}
+.section6 .divsection6 .para11 , .section6 .div2section6 .para11 ,.section6 .div3section6 .para11
+{
+    color:gray;
+}
+.section6 .divsection6 .para10 ,.section6 .div2section6 .para10 , .section6 .div3section6 .para10
+{
+    margin-top: 35px;
+}
+.section6 .div2section6 .shoes
+{
+    width:220px;
+    height:210px;
+    position:relative;
+    left:30px;
+}
+.section6 .div3section6 .cloth
+{
+    width:220px;
+    height:210px;
+    position:relative;
+    left:30px;
+}
+.section6 .divsection6 .cloth
+{
+    width:230px;
+    height:210px;
+    position:relative;
+    left:30px;
+    
+}
+.section6 .divsection6
+{
+    margin-right: 10px;
+}
+.section6 .div3section6
+{
+    margin-left: 10px;
+}
+.section6 .paras
+{
+    position: relative;
+    top:50px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+}
+

@@ -1,0 +1,454 @@
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body
+{
+    height:2000px;
+   overflow-x: hidden;
+}
+.header1 .divheader1
+{
+    position:relative;
+    right:90px;   
+}
+.header1 .div2header1 #first:hover
+{
+   color:blueviolet;
+
+}
+.header1 .divheader1:hover
+{
+    color:blueviolet;
+
+}
+.header1 .divheader1 input
+{
+   border:1px solid white;
+   position: relative;
+   left:10px;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.div2header1 i
+{
+    margin-left: 20px;
+}
+.header1 .div2header1
+{
+ position: relative;
+ left:40%;  
+ color:gray;
+}
+.header1 .div2header1 i:hover
+{
+    color:blueviolet;
+}
+.header1  
+{
+ position: relative;
+ right: 50px;
+ 
+}
+.header1 p
+{
+ color:gray;
+ border:black solid 2px;
+ width: 100px;
+ padding:5px;
+ position:relative;
+ right:500px;
+}
+.header1
+{
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+ margin-top: 50px;
+}
+.icons #first
+{
+    position: relative;
+    top: -121px;
+    right: 140px;
+    transform: scaleX(-1);
+}
+.icons #second
+{
+    position: relative;
+    top: -120px;
+    right: 158px;
+    transform: scaleX(-1);
+}
+.icons #third
+{
+    position: relative;
+    top: -123px;
+    right: 165px;   
+}
+.icons i
+{
+   font-size: 60px;
+}
+.section5 .div5section5 i
+{
+    color:blueviolet;
+}
+.firstline
+{
+   background-color: rgb(158, 158, 158);
+   opacity: 0.15;
+}
+.firstline , .divoflinks , .divoflinks2
+{
+   position: relative;
+   bottom:50px;
+}
+.divoflinks
+{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.divoflinks a
+{
+    text-decoration: none;
+    color:black;
+    margin:30px 0 0 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.divoflinks a:hover
+{
+    color:rgb(180, 48, 233);
+}
+.divoflinks2
+{
+    background: rgb(214, 210, 210);
+    padding:15px;
+    margin-top: 50px;
+}
+.divoflinks2 a
+{
+    color:black;
+    text-decoration: none;
+    margin-left: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.divoflinks2 a:hover
+{
+    color:rgb(180, 48, 233);
+}
+.section1 
+{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top:100px;
+}
+.section1 .divsection1 .image1
+{
+    width: 600px;
+    height: 400px;
+}
+.section1 .div2section1 .heading
+{
+    font-size: 30px;
+    font-weight: 500;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 20px;
+}
+.section1 .div2section1 hr
+{
+    border: blueviolet solid 1px;
+    background: blueviolet;
+    width:50px;
+}
+.section1 .div2section1 .lorem
+{
+    color:gray;
+    line-height: 30px;
+    position:relative;
+    top:30px;
+}
+.section1 .div2section1 .lorem2
+{
+    color:gray;
+    line-height: 30px;
+    position:relative;
+    top:30px;
+    margin-top: 10px;
+}
+.firstline
+{
+   margin-top: 130px;
+   background-color: rgb(158, 158, 158);
+   opacity: 0.3;
+}
+.line
+{
+    border:1px solid blueviolet;
+    background: blueviolet;
+    width:40px;
+    position: relative;
+    left: 48%;
+    top: 91px;
+}
+.team
+{
+    font-size: 28px;
+    font-weight: 500;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
+.section2
+{
+    display:flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+.section2 div img
+{
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+    margin-right:150px;
+    position: relative;
+    left: 70px;
+}
+.section2 .name
+{
+    font-size: 20px;
+    position: relative;
+    left:80px;
+    margin-top: 15px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.section2 .kind
+{
+   color:gray;
+   position: relative;
+   left:90px;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.section2 .lorem3
+{
+    color:gray;
+    line-height: 25px;
+    margin-top: 20px;
+    margin-left:50px;
+}
+.icons
+{
+    display: flex;
+    justify-content: space-around;
+    color:blueviolet;
+}
+.icons #first
+{
+    position: relative;
+    top: -121px;
+    right: 140px;
+    transform: scaleX(-1);
+}
+.icons #second
+{
+    position: relative;
+    top: -120px;
+    right: 158px;
+    transform: scaleX(-1);
+}
+.icons #third
+{
+    position: relative;
+    top: -123px;
+    right: 165px;   
+}
+.icons i
+{
+   font-size: 60px;
+}
+.section3 .divofsection3
+{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+.section3 .divofsection3 h5
+{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: 500;
+   font-size: large;
+   margin-top: 70px;
+}
+.section3 .div2ofsection3
+{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    color:rgb(53, 51, 51);
+    margin-top: 20px;
+    line-height: 25px;
+}
+.section3 .div2ofsection3 .para3
+{
+    position: relative;
+    left:50px;
+}
+.section3 .div2ofsection3 .para4
+{
+    position: relative;
+    left:30px;
+}
+.section3 .div2ofsection3 .para5
+{
+    position: relative;
+    left:15px;
+}
+.secondline
+{
+    margin-top: 100px;
+    background-color: rgb(158, 158, 158);
+    opacity: 0.4;
+}
+.section5
+{
+    margin-top: 50px;
+    display: flex;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: relative;
+    left:50px;
+}
+.section5 .divsection5 :nth-child(1)
+{
+    color:black;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.section5 .divsection5 p
+{
+    color:gray;
+    position: relative;
+    left: 50px;
+    font-size: 17px;
+}
+.section5 .divsection5
+{
+    line-height: 35px;
+}
+.section5 .div2section5 
+{
+    color:gray;
+    line-height: 35px;
+    position: relative;
+    left: 190px;
+    top: 50px;
+    font-size: 17px;
+}
+.section5 .div3section5
+{
+    color:gray;
+    line-height: 35px;
+    position: relative;
+    left: 290px;
+    top: 50px;
+    font-size: 17px;
+}
+.section5 .div4section5
+{
+    position: relative;
+    left:450px;
+    top:8px;
+}
+.section5 .div4section5 img
+{
+    width:300px;
+    height: 150px;
+}
+.section5 .div4section5 .para18
+{
+    position: relative;
+    bottom:10px;
+    font-size: 20px;
+}
+.section5 .div4section5 .para19
+{
+    color:blueviolet;
+    margin-top:15px;
+}
+.section5 .div4section5 .para20
+{
+    color:gray;
+    margin-top:3px;
+}
+.section5 .div5section5
+{
+   position: relative;
+  left:33%;
+}
+.section5 .div5section5 .para21
+{
+    font-size: 20px;
+}
+.section5 .div5section5 .para22
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.section5 .div5section5 .para22 i ,.section5 .div5section5 .para23 i , .section5 .div5section5 .para24 i
+{
+   position: relative;
+   right: 10px;
+}
+.section5 .div5section5 i
+{
+    color:blueviolet;
+}
+.section5 .div5section5 .para23
+{
+    color:gray;
+    margin-bottom: 20px;
+}
+.section5 .div6section5
+{
+    position: relative;
+    top:50px;
+}
+.section5 .div6section5 .para25
+{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.section5 .div6section5 input
+{
+    position: relative;
+    width:220px;
+    outline:none;
+    border:1px solid gray;
+    padding:13px;
+}
+.section5 .div6section5 .para26
+{
+    position: absolute;
+    left: 148px;
+    bottom: 2px;
+    height:40px;
+    text-decoration: none;
+    color:white;
+    background: blueviolet;
+    padding:11px;
+    border-radius: 3px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing: 3px;
+}
+.para27
+{
+    color:gray;
+    position: relative;
+    right: 126%;
+    top: 43px;
+    margin-top: 20px;
+}

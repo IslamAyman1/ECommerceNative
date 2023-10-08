@@ -1,0 +1,651 @@
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body
+{
+    overflow-x: hidden;
+}
+
+.header1 .divheader1
+{
+    position:relative;
+    right:90px;
+    
+}
+.header1 .divheader1 input
+{
+   border:1px solid white;
+   position: relative;
+   left:10px;
+   outline:none;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.header1 .div2header1
+{
+ position: relative;
+ left:40%;  
+ color:gray;
+}
+.header1 .div2header1 i:hover
+{
+    color:blueviolet
+}
+.header1  
+{
+ position: relative;
+ right: 50px;
+}
+.header1 p
+{
+ color:gray;
+ border:black solid 2px;
+ width: 100px;
+ padding:5px;
+ position:relative;
+ right:500px;
+}
+.header1
+{
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+ margin-top: 50px;
+}
+.firstline
+{
+   margin-top: 40px;
+   background-color: rgb(158, 158, 158);
+   opacity: 0.15;
+}
+.divoflinks
+{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.divoflinks a
+{
+    text-decoration: none;
+    color:black;
+    margin:30px 0 0 35px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.divoflinks a:hover
+{
+    color:rgb(180, 48, 233);
+}
+.divofbackground1 img
+{
+    margin-top: 20px;
+    width: 100%;
+    height: 620px;
+    position:relative;
+    display: flex;
+    flex-wrap: wrap;
+}
+.header1 .devolper-name{
+    position: relative; 
+    color:rgb(24, 23, 23);
+    border:black solid 2px; 
+    font-size: 18px;
+    width: 200px; 
+    height: 60px; 
+} 
+.header1 .devolper-name p{
+    position: absolute;
+    top: 20px; 
+    left: 40px;
+}
+
+.header1
+{
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+ margin-top: 50px;
+} 
+.header1 i{
+    padding: 0px 10px;
+
+}  
+
+.header1 i input{
+    width: 240px;
+    font-size: 16px; 
+    border: none; 
+    outline: none; 
+    overflow: hidden;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.39); 
+    transition: width 1s linear 2s;
+   
+
+} 
+.header1 i input:hover{ 
+    
+    padding-left: 10px;
+}
+.header1 i:hover{
+    transform: translate(0,-5px);
+    color: rgb(142, 42, 182); 
+
+
+} 
+.firstline
+{
+   margin-top: 40px;
+   background-color: rgb(158, 158, 158);
+   opacity: 0.15;
+}
+.divoflinks
+{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.divoflinks a
+{
+    text-decoration: none;
+    color:black;
+    margin:30px 0 0 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.divoflinks a:hover
+{
+    color:rgb(180, 48, 233);
+}
+.divofbackground1 h3
+{
+  position:absolute;
+  right: 275px;;
+  top:45%;
+  font-size:50px;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.divofbackground1 p
+{
+    position:absolute;
+    right: 130px;
+    top:63%;
+    font-size:30px;
+    color:rgb(53, 52, 52);
+    display: flex;
+    flex-wrap: wrap;
+}
+.divofbackground1 a
+{
+    text-decoration: none;
+    background:rgb(180, 48, 233); ;
+    color:white;
+    padding:10px;
+    position:absolute;
+    right: 532px;
+    top: 80%;
+    border-radius: 5px;
+    width:120px;
+    text-align: center;
+}
+.divofbackground1 a:hover
+{
+    background:rgb(83, 54, 94) ;
+    transform: scale(1.111111 , 1.111111);
+    box-shadow: 0 0 2px rgb(61, 60, 60),
+                0 0 2px rgb(61, 60, 60),
+                0 0 2px rgb(61, 60, 60),
+                0 0 2px rgb(61, 60, 60);
+}
+.section1 .divofsection1
+{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.section1 .divofsection1 h5
+{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: 500;
+   font-size: large;
+   margin-top: 70px;
+}
+.section1 .div2ofsection1 
+{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    color:rgb(53, 51, 51);
+    margin-top: 20px;
+    line-height: 25px;
+}
+.section1 .div2ofsection1 .para3
+{
+    position: relative;
+    left:50px;
+}
+.section1 .div2ofsection1 .para4
+{
+    position: relative;
+    left:30px;
+}
+.section1 .div2ofsection1 .para5
+{
+    position: relative;
+    left:15px;
+}
+.secondline
+{
+    margin-top: 100px;
+    background-color: rgb(158, 158, 158);
+    opacity: 0.15;
+}
+.section2
+{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 100px;
+}
+.section2::after
+{
+  content:"";
+  position: absolute;
+  top:0;
+  left:0;
+  width: 100;
+  z-index: 2;
+  background: linear-gradient(to bottom , transparent , black);
+}
+
+.section2 .div2section2 .children , .section2 .div3section2 .men , .section2 .divsection2 .women
+{
+    position: relative;
+    width: 380px;
+    height:500px;
+    transition: all 0.5s ease;
+}
+
+
+.section2 .div2section2 .para7 , .section2 .div2section2 .heading5 , .section2 .div3section2 .para8 , .section2 .div3section2 .heading6 , .section2 .divsection2 .para6 , .section2 .divsection2 .heading4
+{
+    position: relative;
+    bottom:70px;
+    left: 10px;
+    color:white;
+    font-family: sans-serif;   
+}
+.section2 .divsection2 .para6 , .section2 .divsection2 .heading4
+{
+position: relative;
+left:70px;
+}
+.section2 .div2section2 .heading5 , .section2 .div3section2 .heading6  , .section2 .divsection2 .heading4
+{
+    font-size: 40px;
+}
+.women
+{
+    margin-left: 60px;
+    
+}
+.women:hover
+{
+    transform: scale(1.1 , 1.1);
+    transition: all 0.5s ease;
+}
+.men
+{
+    margin-right:60px;
+}
+.men:hover
+{
+    transform: scale(1.1 , 1.1);
+ 
+}
+.children:hover
+{
+    transform: scale(1.1 , 1.1);
+    transition: all 0.5s ease;
+}
+.section3
+{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width:100%;
+    height:700px;
+    background: rgba(88, 88, 88, 0.11111);
+    margin-top: 40px;
+}
+.section3 span
+{
+    border-top:2.5px solid blueviolet;
+    width:40px;
+    position: relative;
+    left:50%;
+    margin-top: 60px;
+}
+.section3 .para9
+{
+    margin-top: 80px;
+    position: relative;
+    left:40%;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.section3 .divsection3 , .section3 .div2section3 , .section3 .div3section3
+{
+    background: white;
+    width: 350px;
+    height:400px;
+    margin-top: 150px;
+    position: relative;
+    right:150px;
+}
+.section3 .divsection3 .cloth
+{
+    width:350px;
+    height:240px;
+}
+.section3 .divsection3 p , .section3 .div2section3 p ,.section3 .div3section3 p
+{
+    text-align: center;
+    margin-top: 12px;
+    font-family: sans-serif;
+}
+.section3 .divsection3 .para10 , .section3 .divsection3 .para12 ,.section3 .div2section3 .para10 , .section3 .div2section3 .para12 ,.section3 .div3section3 .para10 , .section3 .div3section3 .para12 
+{
+    color:rgb(83, 8, 153)
+}
+.section3 .divsection3 .para11 , .section3 .div2section3 .para11 ,.section3 .div3section3 .para11
+{
+    color:gray;
+}
+.section3 .divsection3 .para10 ,.section3 .div2section3 .para10 , .section3 .div3section3 .para10
+{
+    margin-top: 35px;
+}
+.section3 .div2section3 .shoes
+{
+    width:350px;
+    height:240px;
+}
+.section3 .div3section3 .cloth
+{
+    width:350px;
+    height:240px;
+}
+.section3 .divsection3
+{
+    margin-right: 10px;
+}
+.section3 .div3section3
+{
+    margin-left: 10px;
+}
+.section4
+{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top:180px;
+}
+.section4 .border2
+{
+    border-top:2.5px solid blueviolet;
+    width:40px;
+    position: relative;
+    left:51%;
+    bottom:80px;
+}
+.section4 .divsection4 img
+{
+  position: relative;
+  right:130px;
+  top:30px;  
+  width:700px;
+  height:450px;
+}
+.section4 .para13
+{
+    position: relative;
+    bottom:60px;
+    left:43%;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.section4 .div2section4
+{
+    position: relative;
+    top: 160px;
+}
+.section4 .div2section4 .para14
+{
+    color:blueviolet;
+    font-size: 25px;
+    position: relative;
+    bottom:30px;
+    font-family: sans-serif;
+}
+.section4 .div2section4 .para15
+{
+   color:gray;
+}
+.section4 .div2section4 .para15 span
+{
+    color:blueviolet;
+}
+.section4 .div2section4 .para16
+{
+    color:gray;
+    line-height: 30px;
+    margin-top: 20px;
+    position: relative;
+    right:-3px;
+}
+.section4 .div2section4 a
+{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left:60px;
+    top:40px;
+    background: blueviolet;
+    color:white;
+    padding:10px;
+    border-radius: 4px;
+    transition: all 0.5s ease;
+    
+}
+.section4 .div2section4 a:hover
+{
+    background:rgb(83, 54, 94) ;
+    transform: scale(1.111111 , 1.111111);
+    box-shadow: 0 0 2px rgb(61, 60, 60),
+                0 0 2px rgb(61, 60, 60),
+                0 0 2px rgb(61, 60, 60),
+                0 0 2px rgb(61, 60, 60);
+}
+.thirdline
+{
+    margin-top:180px;
+    background-color: rgb(158, 158, 158);
+    opacity: 0.25;   
+}
+
+.para17 i , .para18 i , .para19 i
+{
+    position: relative;
+    right:40px;
+    color:blueviolet;
+}
+.icons
+{
+    display: flex;
+    justify-content: space-around;
+    color:blueviolet;
+}
+.icons #first
+{
+    position: relative;
+    top: -121px;
+    right: 140px;
+    transform: scaleX(-1);
+}
+.icons #second
+{
+    position: relative;
+    top: -120px;
+    right: 158px;
+    transform: scaleX(-1);
+}
+.icons #third
+{
+    position: relative;
+    top: -123px;
+    right: 165px;   
+}
+.icons i
+{
+   font-size: 60px;
+}
+.section5
+{
+    margin-top: 50px;
+    display: flex;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: relative;
+    left:50px;
+}
+.section5 .divsection5 :nth-child(1)
+{
+    color:black;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.section5 .divsection5 p
+{
+    color:gray;
+    position: relative;
+    left: 50px;
+    font-size: 17px;
+}
+.section5 .divsection5
+{
+    line-height: 35px;
+}
+.section5 .div2section5 
+{
+    color:gray;
+    line-height: 35px;
+    position: relative;
+    left: 190px;
+    top: 50px;
+    font-size: 17px;
+}
+.section5 .div3section5
+{
+    color:gray;
+    line-height: 35px;
+    position: relative;
+    left: 290px;
+    top: 50px;
+    font-size: 17px;
+}
+.section5 .div4section5
+{
+    position: relative;
+    left:450px;
+    top:8px;
+}
+.section5 .div4section5 img
+{
+    width:300px;
+    height: 150px;
+}
+.section5 .div4section5 .para18
+{
+    position: relative;
+    bottom:10px;
+    font-size: 20px;
+}
+.section5 .div4section5 .para19
+{
+    color:blueviolet;
+    margin-top:15px;
+}
+.section5 .div4section5 .para20
+{
+    color:gray;
+    margin-top:3px;
+}
+.section5 .div5section5
+{
+   position: relative;
+  left:33%;
+}
+.section5 .div5section5 .para21
+{
+    font-size: 20px;
+}
+.section5 .div5section5 .para22
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.section5 .div5section5 .para22 i ,.section5 .div5section5 .para23 i , .section5 .div5section5 .para24 i
+{
+   position: relative;
+   right: 10px;
+}
+.section5 .div5section5 i
+{
+    color:blueviolet;
+}
+.section5 .div5section5 .para23
+{
+    color:gray;
+    margin-bottom: 20px;
+}
+.section5 .div6section5
+{
+    position: relative;
+    top:50px;
+}
+.section5 .div6section5 .para25
+{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.section5 .div6section5 input
+{
+    position: relative;
+    width:220px;
+    outline:none;
+    border:1px solid gray;
+    padding:13px;
+}
+.section5 .div6section5 .para26
+{
+    position: absolute;
+    left: 148px;
+    bottom: 2px;
+    height:40px;
+    text-decoration: none;
+    color:white;
+    background: blueviolet;
+    padding:11px;
+    border-radius: 3px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing: 3px;
+}
+.para27
+{
+    color:gray;
+    position: relative;
+    right: 126%;
+    top: 43px;
+    margin-top: 20px;
+}
